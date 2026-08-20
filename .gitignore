@@ -1,0 +1,22 @@
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Dependencies
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Project Specific Logs & Temporary Files
+*.log
+*.tmp
