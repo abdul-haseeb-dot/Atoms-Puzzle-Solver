@@ -23,7 +23,7 @@ def main():
     screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
     pygame.display.set_caption("Atoms")
 
-    BG_COLOR = (20, 27, 35)
+    BG_COLOR = (18, 36, 29)
     TITLE_COLOR = (255, 255, 255)
     SUBTITLE_COLOR = (180, 190, 200)
     ERROR_COLOR = (224, 122, 122)
